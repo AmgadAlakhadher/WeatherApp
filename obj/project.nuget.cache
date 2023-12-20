@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MlnTtI2PosfXdcEY6cnMolzLemOVXIuRFXI5b4yOd4QWRv+ZdY6h9iukoMlKtKIks+GUXhyMQLvlXhie7Dz06g==",
+  "success": true,
+  "projectFilePath": "/home/amjad/c#/console/console.csproj",
+  "expectedPackageFiles": [
+    "/home/amjad/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

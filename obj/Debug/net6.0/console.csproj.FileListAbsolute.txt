@@ -1,0 +1,15 @@
+/home/amjad/c#/console/bin/Debug/net6.0/console
+/home/amjad/c#/console/bin/Debug/net6.0/console.deps.json
+/home/amjad/c#/console/bin/Debug/net6.0/console.runtimeconfig.json
+/home/amjad/c#/console/bin/Debug/net6.0/console.dll
+/home/amjad/c#/console/bin/Debug/net6.0/console.pdb
+/home/amjad/c#/console/obj/Debug/net6.0/console.csproj.AssemblyReference.cache
+/home/amjad/c#/console/obj/Debug/net6.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/home/amjad/c#/console/obj/Debug/net6.0/console.AssemblyInfoInputs.cache
+/home/amjad/c#/console/obj/Debug/net6.0/console.AssemblyInfo.cs
+/home/amjad/c#/console/obj/Debug/net6.0/console.csproj.CoreCompileInputs.cache
+/home/amjad/c#/console/obj/Debug/net6.0/console.dll
+/home/amjad/c#/console/obj/Debug/net6.0/refint/console.dll
+/home/amjad/c#/console/obj/Debug/net6.0/console.pdb
+/home/amjad/c#/console/obj/Debug/net6.0/console.genruntimeconfig.cache
+/home/amjad/c#/console/obj/Debug/net6.0/ref/console.dll
